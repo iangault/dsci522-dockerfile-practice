@@ -1,0 +1,9 @@
+name: dock_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab=4.5
+  - numpy=2.3
+  - pandas=2.3
+prefix: /Users/iangault/miniforge3/envs/dock_env
